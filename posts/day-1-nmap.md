@@ -1,5 +1,4 @@
 # One Day, One Tool: Day 1 - Nmap
-
 Date: 2025-04-27
 > Exploring one cybersecurity tool each day to sharpen my skills and build practical experience.
 
@@ -31,38 +30,3 @@ nmap -sV scanme.nmap.org
 
 # OS detection
 nmap -O 192.168.1.1
-```
-
----
-
-## 🧠 Key Learnings from Today
-
-- The difference between **TCP Connect** scan (`-sT`) and **TCP SYN** scan (`-sS`).
-- How to perform **stealth scanning** to avoid detection by firewalls or IDS systems.
-- How **OS fingerprinting** tries to guess the device's operating system based on TCP/IP stack responses.
-- The importance of **scanning in cybersecurity assessments** — both offense (pentesting) and defense (hardening).
-
----
-
-## 🚀 Why It Matters
-
-Understanding how to effectively map a network is crucial in both cybersecurity attack simulations and real-world defense.  
-Mastering tools like Nmap helps me build a strong technical foundation for penetration testing, red teaming, and incident response.
-
----
-
-## 🎯 Goal Moving Forward
-
-- Continue "One Day, One Tool" daily.
-- Document every tool explored in this blog.
-- Practice using the tools in both **safe labs** and **CTF (Capture The Flag)** environments.
-
----
-
-**Challenge Motto:**  
-> *"One tool at a time. One step closer to mastery."*
-
-Stay tuned for tomorrow’s post where I’ll explore another powerful cybersecurity tool!
-
----
-
