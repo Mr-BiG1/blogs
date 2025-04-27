@@ -1,0 +1,9 @@
+# How I Built My Portfolio
+Date: 2025-04-27
+> This portfolio is built using Next.js, TailwindCSS, and GitHub API.
+
+Today I'm sharing how I built my dynamic portfolio project...
+
+- Using Next.js App Router
+- Integrating GitHub GraphQL
+- Using TailwindCSS for styling
